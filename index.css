@@ -1,4 +1,21 @@
 .two{
-    float:left;
-    margin: 20px;
+    display: inline-block;
+    flex-direction: row;
+    margin: 2em 2em;
+    float: right;
+    margin: -60px;
+
 }
+h1{
+    text-align: center;
+    color: blueviolet
+}
+body{
+    background-image: url("https://i.pinimg.com/564x/5e/45/89/5e45894b5de9dd98e4596c7eb1f01399.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+   
+    
